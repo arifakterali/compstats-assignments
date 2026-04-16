@@ -53,13 +53,13 @@ The questions assigned are listed below:
 
 1. Consider a set of discrete values. Find the mean deviation about any constant A and about mean. 
 2. Consider a set of continuous values. Find the mean deviation about any constant A and about mean. 
-3. Consider a set of discrete values. Find the standard deviation and about variance. 
-4. Consider a set of continuous values. Find the standard deviation and about variance. 
+3. Consider a set of discrete values. Find the standard deviation and variance. 
+4. Consider a set of continuous values. Find the standard deviation and variance. 
 
 
 
 ----------------------------------------
-------------- ASSIGNMENT 4 -------------
+------------- ASSIGNMENT 5 -------------
 ----------------------------------------
 1. Consider a set of discrete values. Find the first, second, third and fourth raw moments.
 2. Consider a set of continuous values. Find the first, second, third and fourth raw moments.
